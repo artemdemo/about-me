@@ -17,12 +17,8 @@ This page is not exactly CV, like HR guys usually expecting to see and this is s
 
 Technologies that I'm familiar with:
 * Of course HTML5, CSS3, JS (including ES6)
-* JS framework: React, Backbone, jQuery
+* JS framework: React, Backbone, AngularJS, jQuery
 * CSS frameworks: Bootstrap
 * Preprocessors: LESS
 * Task managers: Gulp, Grunt, Webpack
 * Server side: PHP, Node.js, MySQL, Apache, Linux (but I'm not backend developer)
-
-
-PS<br>
-I do know AngularJS (with more then year of real experience), but I prefer to use some other frameworks. If you want to ask me why - feel free to email me :wink:
