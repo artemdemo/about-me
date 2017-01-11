@@ -21,4 +21,5 @@ Technologies that I'm familiar with:
 * CSS frameworks: Bootstrap
 * Preprocessors: LESS
 * Task managers: Gulp, Grunt, Webpack
+* Charts: D3
 * Server side: PHP, Node.js, MySQL, Apache, Linux (but I'm not backend developer)
